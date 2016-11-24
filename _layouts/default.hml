@@ -4,7 +4,7 @@
                         <title>{{ page.title }}<title>
                         <!-- link to min stylesheet -->
                         <link rel="stylesheet" type="text/css" href="/css/main.css">
-                <head>
+                </head>
                 <body>
                         <nav>
                                 <li><a href="/">Home</a></li>
@@ -24,5 +24,5 @@
                                 <li><a href="https://github.com/joshuadmorgan48.github.com/joshuamorgan</a></li>
                                 </ul>
                         </footer>
-                 <body>
-           <html>
+                 </body>
+           </html>
