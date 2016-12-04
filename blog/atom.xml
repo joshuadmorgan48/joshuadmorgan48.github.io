@@ -23,5 +23,5 @@ layout: feed
                         <content type="html">{{ post.content | xml_excape }}</content>
                 </entry>
                 
-        {% emdfor %}
+        {% endfor %}
 </feed>
