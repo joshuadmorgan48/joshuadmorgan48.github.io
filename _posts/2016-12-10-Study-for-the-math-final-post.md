@@ -1,4 +1,4 @@
-s---
+---
 layout: post
 title: "Study For The Math Final"
 date: 2016-12-10
